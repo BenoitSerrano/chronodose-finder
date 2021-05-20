@@ -22,6 +22,6 @@ Run in your shell the following commands:
 - `cd chronodose-finder`
 - `yarn` or `npm i`
 
-# Run
+## Run
 
 - `yarn start` or `npm run start`
